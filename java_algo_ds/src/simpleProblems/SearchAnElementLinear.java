@@ -1,4 +1,4 @@
-package java_algo_ds;
+package simpleProblems;
 
 public class SearchAnElementLinear {
 	
