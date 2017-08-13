@@ -2,12 +2,9 @@ package java_algo_ds;
 
 public class SearchAnElementLinear {
 	
-	public static boolean search(int[] arr, int searchElement)
-	{
-		for (int element : arr)
-		{
-			if (element == searchElement)
-			{
+	public static boolean search(int[] arr, int searchElement) {
+		for (int element : arr) {
+			if (element == searchElement) {
 				return true;
 			}
 		}
@@ -24,5 +21,4 @@ public class SearchAnElementLinear {
 			System.out.println(searchElement + " does not exist in the array");
 		}
 	}
-
 }
