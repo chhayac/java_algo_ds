@@ -4,7 +4,7 @@ Algorithms and Data Structure problems in java
 ## Cracking the Coding Interview Problems
 | Problem| Link |
 | -------------------| -----|
-| [Urlify.java](crackingthecode/Urlify.java) | 
+|Write a method to replace all spaces in a string with "%20" | [Urlify.java](crackingthecode/Urlify.java) | 
 
 
 
