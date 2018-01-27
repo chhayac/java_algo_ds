@@ -9,6 +9,7 @@ Algorithms and Data Structure problems in java
 |Is Unique: Implement an algorithm to determine if a string has all unique characters and you cannot use additional data structures | [IsUniqueChar.java](crackingthecode/IsUniqueChar.java) | 
 | Minimal Tree : Given a sorted(increasing order) array with unique elements, write an algorithm to create a binary search tree with minimal height | [minimalTree.java](crackingthecode/minimalTree.java) |
 | Find duplicate file in system  : Given a list of directory info including directory path, and all the files with contents in this directory, you need to find out all the groups of duplicate files in the file system in terms of their paths. | [duplicateFiles.java](crackingthecode/duplicateFiles.java) |
+| Find intersection of two linkedlists  : Given two linked lists, find their intersection point | [getIntersectionNode.java](crackingthecode/getIntersectionNode.java) |
 
 
 ## Dynamic Programming Problems
