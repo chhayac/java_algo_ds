@@ -9,7 +9,6 @@ package simpleProblems;
  * Output: "1118" 
  */
 
-
 public class BuildLowestNumber {
 	
 	public static void BLN(String digit, int n, String res) {
@@ -39,12 +38,11 @@ public class BuildLowestNumber {
 		
 		// append the smallest digit to resultant smallest number
 		res += ch[minIndex];
-		System.out.println("res: " + res);
-		System.out.println("len of digit= " + digit.length());
+		
 		// take left part of digit after the minIndex till last element of digit
 		// to make it the new digit for recursion
 		String new_digit = digit.substring(minIndex+1, digit.length());
-		System.out.println("New_digit = " + new_digit);
+		
 		// recurse same logic on remaining string
 		BLN(new_digit, n-minIndex, res);
 	} 
