@@ -16,3 +16,11 @@ Algorithms and Data Structure problems in java
 | Problem| Link |
 | -------------------| -----|
 |Write a function to generate nth term of fibonacci series| [fibonacci.java](dynamicProgramming/Fibonacci.java) | 
+
+
+
+## Simple Problems
+| Problem| Link |
+| -------------------| -----|
+|Given an array of integers, return indices of the two numbers such that they add up to a specific target| [twoSum.java](simpleProblems/twoSum.java) | 
+|To build lowest number by removing n digits from a given number.| [BuildLowestNumber.java](simpleProblems/BuildLowestNumber.java) | 
