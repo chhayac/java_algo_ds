@@ -24,3 +24,4 @@ Algorithms and Data Structure problems in java
 | -------------------| -----|
 |Given an array of integers, return indices of the two numbers such that they add up to a specific target| [twoSum.java](simpleProblems/twoSum.java) | 
 |To build lowest number by removing n digits from a given number.| [BuildLowestNumber.java](simpleProblems/BuildLowestNumber.java) | 
+|Reversing a linked list.| [reverseList.java](simpleProblems/reverseList.java) | 
