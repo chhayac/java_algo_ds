@@ -26,3 +26,5 @@ Algorithms and Data Structure problems in java
 |To build lowest number by removing n digits from a given number.| [BuildLowestNumber.java](simpleProblems/BuildLowestNumber.java) | 
 |Reversing a linked list.| [reverseList.java](simpleProblems/reverseList.java) | 
 |Binary Search Tree Inorder Traversal using Iterative method.| [InorderTraversal.java](simpleProblems/InorderTraversal.java) | 
+|Given an array of strings, group anagrams together.| [groupAnagrams.java](simpleProblems/groupAnagrams.java) | 
+
